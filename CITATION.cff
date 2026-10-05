@@ -9,3 +9,5 @@ authors:
     given-names: "Mduduzi C."
 version: "1.0.0"
 date-released: 2026-10-05
+
+repository-code: "https://github.com/Lusani1/5g-slice-admission-control"

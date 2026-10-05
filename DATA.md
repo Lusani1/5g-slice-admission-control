@@ -2,7 +2,11 @@
 
 ## Source
 
-The admission-control workload is derived from the GWA-T-13 Materna workload traces distributed through the Grid Workloads Archive. The raw third-party traces are not redistributed in this repository.
+The admission-control workload is derived from the GWA-T-13 Materna workload traces distributed through the Grid Workloads Archive. The official source is:
+
+- **@Large Research, GWA-T-13 Materna:** https://atlarge-research.com/gwa-t-13/
+
+The archive identifies Materna GmbH Information & Communications, Dortmund, Germany, as the trace provider and requests acknowledgement of the data source in publications that use the trace. The raw third-party traces are not redistributed in this repository.
 
 ## Processed profile format
 

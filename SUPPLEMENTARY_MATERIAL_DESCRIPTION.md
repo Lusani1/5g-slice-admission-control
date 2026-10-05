@@ -6,14 +6,14 @@ Source code, experiment configuration, implementation tests, compact 30-run refe
 
 ## Full run evidence
 
-Complete decision-level and epoch-level outputs from the 30 paired Monte Carlo runs, together with the experiment configuration, processed-data fingerprints, and SHA-256 manifest.
+The accompanying archive `IEEE_Access_Full_Run_Evidence.zip` contains the complete decision-level and epoch-level outputs from the 30 paired Monte Carlo runs, together with the experiment configuration, processed-data fingerprints, and SHA-256 manifest.
 
 ## Authors
 
 - Lusani Mamushiane
 - Dr. Mduduzi C.Hlophe
 
-## Reviewers
+## Technical reviewers
 
 - Dr. Albert A.Lysko
 - Dr. Joyce Mwangama

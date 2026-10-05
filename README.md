@@ -7,7 +7,7 @@ Reproducibility materials accompanying the manuscript **“SLA-Aware Resource Ov
 - Lusani Mamushiane
 - Dr. Mduduzi C.Hlophe
 
-## Reviewers
+## Technical reviewers
 
 - Dr. Albert A.Lysko
 - Dr. Joyce Mwangama
@@ -97,7 +97,7 @@ From the repository root:
 
 The experiment runner performs data preflight checks, trains the XGBoost runtime forecaster, executes the 30 paired Monte Carlo runs, verifies configuration and seed counts, creates result hashes, and regenerates the admission-control figures used in the manuscript.
 
-Detailed execution instructions are provided in [REPRODUCIBILITY.md](REPRODUCIBILITY.md). The mapping between manuscript results and repository evidence is given in [EVIDENCE_INDEX.md](EVIDENCE_INDEX.md). Complete decision-level and epoch-level outputs are distributed separately in `IEEE_Access_Full_Run_Evidence.zip` to keep the repository compact.
+Detailed execution instructions are provided in [REPRODUCIBILITY.md](REPRODUCIBILITY.md). The mapping between manuscript results and repository evidence is given in [EVIDENCE_INDEX.md](EVIDENCE_INDEX.md). Complete decision-level and epoch-level outputs are provided separately in the accompanying supplementary archive `IEEE_Access_Full_Run_Evidence.zip` to keep the repository compact. The archive contains the full 30-run decision- and epoch-level evidence referenced in [EVIDENCE_INDEX.md](EVIDENCE_INDEX.md).
 
 ## Data availability
 

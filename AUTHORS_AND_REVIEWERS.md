@@ -1,11 +1,11 @@
-# Authors and reviewers
+# Authors and technical reviewers
 
 ## Authors
 
 - Lusani Mamushiane
 - Dr. Mduduzi C.Hlophe
 
-## Reviewers
+## Technical reviewers
 
 - Dr. Albert A.Lysko
 - Dr. Joyce Mwangama
