@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+models/*.joblib
+models/*.metadata.json
+results/reproduction/
+results/reproduction.zip
+*.log
+.DS_Store
+results/parameter_sensitivity/
